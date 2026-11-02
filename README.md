@@ -397,10 +397,10 @@ echo "<h1>Welcome to My Web Server</h1>" > /var/www/html/index.html
 
 ## 13. Author
 
-**Vinay**
+**Vikram**
 Cloud and DevOps enthusiast | Bengaluru, India
 
-GitHub: [@Vinay-PR-Gowda](https://github.com/Vinay-PR-Gowda)
+GitHub: [@Vikram C N]
 
 ---
 
