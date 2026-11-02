@@ -1,11 +1,5 @@
 # EC2-Based Web Server: Nginx on Ubuntu (AWS)
 
-> Deploying a web server on Amazon EC2 using Ubuntu and Nginx, built from scratch with the AWS Management Console and the Linux command line.
-
-![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu_Server-E95420?logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Web_Server-Nginx-009639?logo=nginx&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
