@@ -9,15 +9,14 @@
 2. [Architecture](#2-architecture)
 3. [Core Concepts](#3-core-concepts)
 4. [Tech Stack](#4-tech-stack)
-5. [Project Output](#5-project-output)
-6. [Step-by-Step Implementation](#6-step-by-step-implementation)
-7. [Verification and Testing](#7-verification-and-testing)
-8. [Useful Commands](#8-useful-commands)
-9. [Troubleshooting](#9-troubleshooting)
-10. [Security Considerations](#10-security-considerations)
-11. [Cost and Cleanup](#11-cost-and-cleanup)
-12. [Future Improvements](#12-future-improvements)
-13. [Author](#13-author)
+5. [Step-by-Step Implementation](#6-step-by-step-implementation)
+6. [Verification and Testing](#7-verification-and-testing)
+7. [Useful Commands](#8-useful-commands)
+8. [Troubleshooting](#9-troubleshooting)
+9. [Security Considerations](#10-security-considerations)
+10. [Cost and Cleanup](#11-cost-and-cleanup)
+11. [Future Improvements](#12-future-improvements)
+12. [Author](#13-author)
 
 ---
 
