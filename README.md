@@ -106,18 +106,6 @@ flowchart LR
 
 ---
 
-## 5. Project Output
-
-### Website Served by Nginx
-
-![EC2 Instances List](screenshots/Screenshot%202026-10-29%20224003.png)
-
-### EC2 Instance Running
-
-![Website Interface](screenshots/Screenshot%202026-10-29%20224206.png)
-
----
-
 ## 6. Step-by-Step Implementation
 
 ### Step 1: Open EC2 in the AWS Console
