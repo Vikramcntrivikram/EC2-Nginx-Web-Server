@@ -381,7 +381,7 @@ echo "<h1>Welcome to My Web Server</h1>" > /var/www/html/index.html
 **Vikram**
 Cloud and DevOps enthusiast | Bengaluru, India
 
-GitHub: [@Vikram C N]
+GitHub: @Vikram C N
 
 ---
 
