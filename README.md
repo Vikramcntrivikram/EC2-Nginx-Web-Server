@@ -371,7 +371,7 @@ apt update -y
 apt install nginx -y
 systemctl enable nginx
 systemctl start nginx
-echo "<h1>Welcome to My Web Server</h1>" > /var/www/html/index.html
+echo "<h1>This is the New Web Server</h1>" > /var/www/html/index.html
 ```
 
 ---
